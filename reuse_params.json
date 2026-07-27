@@ -1,0 +1,18 @@
+{
+    "content": {
+        "group_fc_tvm": {
+            "mergeEmbedding": "true",
+            "groupFcNoRestore": true,
+            "spdenMode": "0",
+            "mixedTower": "true"
+        },
+        "tvm_ensemble": {
+            "tvmRunType": "cpu_avx2/gpu_a10",
+            "batchSizeRange": "1-5-1",
+            "seqLenRange": "8-32",
+            "outputsInOneGraph": false,
+            "enableMergeTvmGraphs": false,
+            "splitNamespaces": null
+        }
+    }
+}
