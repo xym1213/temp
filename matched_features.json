@@ -1,0 +1,1424 @@
+{
+  "features": [
+    {
+      "name": "ads_channel",
+      "tag": 247,
+      "type": 3,
+      "source": 3,
+      "description": "当前请求渠道",
+      "owner": "luxiaoxuan",
+      "track": true,
+      "static": false
+    },
+    {
+      "name": "ads_channel_clk_padding_seq_str",
+      "tag": 14427,
+      "type": 3,
+      "source": 2,
+      "description": "ads_channel_clk_padding_seq_str",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "ads_channel_impr_padding_seq_str",
+      "tag": 14426,
+      "type": 3,
+      "source": 2,
+      "description": "ads_channel_impr_padding_seq_str",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "age_bucket_did",
+      "tag": 10237,
+      "type": 3,
+      "source": 2,
+      "description": "age_bucket_did",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "android_sub_make_fix",
+      "tag": 17079,
+      "type": 3,
+      "source": 2,
+      "description": "android_sub_make_fix",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "app_login_freq_rta_lite",
+      "tag": 16072,
+      "type": 3,
+      "source": 2,
+      "description": "app_login_freq_rta_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "apple_sub_series",
+      "tag": 17080,
+      "type": 3,
+      "source": 2,
+      "description": "apple_sub_series",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "back_install_app_time2now_day_did_rta",
+      "tag": 13022,
+      "type": 1,
+      "source": 2,
+      "description": "back_install_app_time2now_day_did_rta",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "back_lst_actv_time2now_day_rta",
+      "tag": 10251,
+      "type": 1,
+      "source": 3,
+      "description": "back_lst_actv_time2now_day_rta",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "back_lst_install_time2now_day",
+      "tag": 10244,
+      "type": 1,
+      "source": 3,
+      "description": "back_lst_install_time2now_day",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "back_titan_time2now_day",
+      "tag": 10243,
+      "type": 1,
+      "source": 3,
+      "description": "back_titan_time2now_day",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "back_uninstall_app_time2now_day_did_rta",
+      "tag": 13021,
+      "type": 1,
+      "source": 2,
+      "description": "back_uninstall_app_time2now_day_did_rta",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "bid_source_did_lite",
+      "tag": 13026,
+      "type": 3,
+      "source": 2,
+      "description": "激活bid-source分布",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "bid_top2_did_lite",
+      "tag": 13029,
+      "type": 3,
+      "source": 2,
+      "description": "top2渠道-bid",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "city_did",
+      "tag": 10233,
+      "type": 3,
+      "source": 2,
+      "description": "city_did",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "clk_top2_did_lite",
+      "tag": 13031,
+      "type": 3,
+      "source": 2,
+      "description": "top2渠道-clk",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "common_channels_lvl",
+      "tag": 16121,
+      "type": 3,
+      "source": 2,
+      "description": "common_channels_lvl",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "common_channels_lvl_v2",
+      "tag": 16287,
+      "type": 3,
+      "source": 2,
+      "description": "common_channels_lvl_v2",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "connection_type_did_lite",
+      "tag": 12946,
+      "type": 3,
+      "source": 2,
+      "description": "设备主要联网环境特征",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "cross_manufcv2_devicetype",
+      "tag": 14414,
+      "type": 3,
+      "source": 2,
+      "description": "cross_manufcv2_devicetype",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "cross_req_adschnls",
+      "tag": 14624,
+      "type": 3,
+      "source": 2,
+      "description": "cross_req_adschnls",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "delta_pt",
+      "tag": 14128,
+      "type": 1,
+      "source": 2,
+      "description": "delta_pt",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "dsp_req_dy_cnt_7d",
+      "tag": 9970,
+      "type": 1,
+      "source": 2,
+      "description": "dsp_req_dy_cnt_7d",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "dsp_req_ks_cnt_7d",
+      "tag": 9969,
+      "type": 1,
+      "source": 2,
+      "description": "dsp_req_ks_cnt_7d",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "dsp_req_wx_cnt_7d",
+      "tag": 9361,
+      "type": 1,
+      "source": 2,
+      "description": "微信7d活跃次数",
+      "owner": "daofu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "eff_laxin_scene_id_v3",
+      "tag": 15774,
+      "type": 1,
+      "source": 2,
+      "description": "eff_laxin_scene_id_v3",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "first_request_time_gap_day_lite",
+      "tag": 14418,
+      "type": 1,
+      "source": 2,
+      "description": "first_request_time_gap_day_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "gender_did",
+      "tag": 10236,
+      "type": 3,
+      "source": 2,
+      "description": "gender_did",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "global_data_did_type",
+      "tag": 10896,
+      "type": 3,
+      "source": 3,
+      "description": "global_data_did_type",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "imp_top2_did_lite",
+      "tag": 13030,
+      "type": 3,
+      "source": 2,
+      "description": "top2渠道-imp",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "impr_30d_avg_like_cnt_rta_lite",
+      "tag": 11395,
+      "type": 2,
+      "source": 2,
+      "description": "impr_30d_avg_like_cnt_rta_lite",
+      "owner": "jinxichuan, yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "impr_30d_industry_list_rta_lite_set_v1",
+      "tag": 14837,
+      "type": 3,
+      "source": 2,
+      "description": "impr_30d_industry_list_rta_lite_set_v1",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "impr_30d_most_freq_mtrl_src_desc_rta_lite",
+      "tag": 11372,
+      "type": 3,
+      "source": 2,
+      "description": "impr_30d_most_freq_mtrl_src_desc_rta_lite",
+      "owner": "jinxichuan, yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "install_status_rt_10d",
+      "tag": 11766,
+      "type": 1,
+      "source": 3,
+      "description": "实时安装态10d",
+      "owner": "miaoshu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "install_status_rt_10d_impr_seq_str",
+      "tag": 16291,
+      "type": 3,
+      "source": 2,
+      "description": "install_status_rt_10d_impr_seq_str",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "is_ag_index_deeplink_rta_lite",
+      "tag": 16077,
+      "type": 1,
+      "source": 2,
+      "description": "is_ag_index_deeplink_rta_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "is_brush_rta_lite",
+      "tag": 16076,
+      "type": 1,
+      "source": 2,
+      "description": "is_brush_rta_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "is_histry_actv_lite",
+      "tag": 4861,
+      "type": 1,
+      "source": 2,
+      "description": "是否激活过(包含分区当天激活)（包括hov+rta）",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "is_inner",
+      "tag": 10895,
+      "type": 3,
+      "source": 3,
+      "description": "is_inner",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "ks_emb_a",
+      "tag": 9369,
+      "type": 2,
+      "source": 3,
+      "description": "kuaishou_embedding_a",
+      "owner": "yaolirong",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "ks_emb_clusters_rta_lite",
+      "tag": 12511,
+      "type": 1,
+      "source": 2,
+      "description": "ks_emb_clusters_rta_lite",
+      "owner": "weiqiwu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "label_0d_seq_lst_5_truncate",
+      "tag": 14569,
+      "type": 2,
+      "source": 2,
+      "description": "label_0d_seq_lst_5_truncate",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "label_30d_min_180d_lite",
+      "tag": 14585,
+      "type": 2,
+      "source": 2,
+      "description": "label_30d_min_180d_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "label_30d_seq_lst_5_truncate",
+      "tag": 14571,
+      "type": 2,
+      "source": 2,
+      "description": "label_30d_seq_lst_5_truncate",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "label_8d_seq_lst_5_truncate",
+      "tag": 14570,
+      "type": 2,
+      "source": 2,
+      "description": "label_8d_seq_lst_5_truncate",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "last_actv_chnl_lite",
+      "tag": 12753,
+      "type": 3,
+      "source": 2,
+      "description": "last_actv_chnl_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "last_actv_gap_day_lite",
+      "tag": 9997,
+      "type": 1,
+      "source": 2,
+      "description": "last_actv_gap_day_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "last_trace_time2now_day_30d_rta",
+      "tag": 12826,
+      "type": 1,
+      "source": 3,
+      "description": "last_trace_time2now_day_30d_rta",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "last_trace_time2now_day_rta",
+      "tag": 10250,
+      "type": 1,
+      "source": 3,
+      "description": "last_trace_time2now_day_rta",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "lst_actv_label_0d_lite",
+      "tag": 14977,
+      "type": 2,
+      "source": 2,
+      "description": "lst_actv_label_0d_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "lst_actv_label_8d_lite",
+      "tag": 14978,
+      "type": 2,
+      "source": 2,
+      "description": "lst_actv_label_8d_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "lst_clk_impr_gap_hr_fix",
+      "tag": 17283,
+      "type": 1,
+      "source": 2,
+      "description": "lst_clk_impr_gap_hr_fix",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "manufc_v2",
+      "tag": 13787,
+      "type": 3,
+      "source": 3,
+      "description": "manufc_v2",
+      "owner": "gubeisheng",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "max_trce_day_gap",
+      "tag": 12609,
+      "type": 2,
+      "source": 2,
+      "description": "最大trce间隔",
+      "owner": "miaoshu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "media_install_status",
+      "tag": 3988,
+      "type": 1,
+      "source": 3,
+      "description": "媒体安装状态",
+      "owner": "xiazhe",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "min_mat_pkg_price_lite",
+      "tag": 12957,
+      "type": 2,
+      "source": 2,
+      "description": "pdd_id维度激活素材价格信息",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "model_did",
+      "tag": 10235,
+      "type": 3,
+      "source": 2,
+      "description": "model_did",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "model_fix",
+      "tag": 7390,
+      "type": 3,
+      "source": 3,
+      "description": "对原始媒体传递的model字段进行清洗，对齐数仓维护的设备信息表中的命名格式",
+      "owner": "gangfeng",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "model_fix_price",
+      "tag": 7396,
+      "type": 1,
+      "source": 3,
+      "description": "设备价格，对齐数仓产出的设备信息表中的格式",
+      "owner": "gangfeng",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "model_new_iphone",
+      "tag": 16286,
+      "type": 3,
+      "source": 2,
+      "description": "model_new_iphone",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "mrkun_is_jd_instl_30d_rta_lite",
+      "tag": 16107,
+      "type": 1,
+      "source": 2,
+      "description": "jd_30d有安装",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "mrkun_is_jd_instl_3d_rta_lite",
+      "tag": 16101,
+      "type": 1,
+      "source": 2,
+      "description": "jd_3d有安装",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "mrkun_is_tb_instl_30d_rta_lite",
+      "tag": 16108,
+      "type": 1,
+      "source": 2,
+      "description": "tb_30d有安装",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "mrkun_is_tb_instl_3d_rta_lite",
+      "tag": 16102,
+      "type": 1,
+      "source": 2,
+      "description": "tb_3d有安装",
+      "owner": "chenyuehua",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "os_version_did",
+      "tag": 10239,
+      "type": 3,
+      "source": 2,
+      "description": "os_version_did",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pay_7d_tag_7d_lite",
+      "tag": 12470,
+      "type": 1,
+      "source": 2,
+      "description": "7天内支付分档特征7d平滑",
+      "owner": "jinxichuan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pay_7d_tag_lite",
+      "tag": 9373,
+      "type": 1,
+      "source": 2,
+      "description": "pay_7d_tag_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_id_cpa_lvl_v2_int",
+      "tag": 10110,
+      "type": 1,
+      "source": 3,
+      "description": "pdd_id_cpa_lvl_v2_int",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_id_ltv_lvl_v2_int",
+      "tag": 10109,
+      "type": 1,
+      "source": 0,
+      "description": "pdd_id_ltv_lvl_v2_int",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_id_ltv_lvl_v3_int",
+      "tag": 11794,
+      "type": 1,
+      "source": 0,
+      "description": "pdd_id_ltv_lvl_v3_int",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_id_ltv_lvl_v4_int",
+      "tag": 11795,
+      "type": 1,
+      "source": 0,
+      "description": "pdd_id_ltv_lvl_v4_int",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_id_ltv_lvl_v6",
+      "tag": 10428,
+      "type": 1,
+      "source": 2,
+      "description": "用户ltv分档特征",
+      "owner": "gangfeng",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_id_post_ltv_lvl_int_lite",
+      "tag": 11562,
+      "type": 1,
+      "source": 2,
+      "description": "pdd_id120d平均后验ltv分档",
+      "owner": "jinxichuan, yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "pdd_jd_tb_instl",
+      "tag": 17276,
+      "type": 1,
+      "source": 2,
+      "description": "pdd_jd_tb_instl",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "phone_change_30d_tt_ks_tx",
+      "tag": 12750,
+      "type": 1,
+      "source": 2,
+      "description": "phone_change_30d_tt_ks_tx",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "placement_id",
+      "tag": 9555,
+      "type": 3,
+      "source": 3,
+      "description": "腾讯广告位置",
+      "owner": "yaolirong",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "platform",
+      "tag": 367,
+      "type": 3,
+      "source": 3,
+      "description": "平台",
+      "owner": "luxiaoxuan",
+      "track": true,
+      "static": false
+    },
+    {
+      "name": "province_did",
+      "tag": 10234,
+      "type": 3,
+      "source": 2,
+      "description": "province_did",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_bili_cnt_30d",
+      "tag": 16424,
+      "type": 1,
+      "source": 2,
+      "description": "req_bili_cnt_30d",
+      "owner": "zhuchengwen",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_dy_cnt_30d",
+      "tag": 16420,
+      "type": 1,
+      "source": 2,
+      "description": "req_dy_cnt_30d",
+      "owner": "zhuchengwen",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_is_new_device_int",
+      "tag": 10893,
+      "type": 1,
+      "source": 3,
+      "description": "req_is_new_device_int",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_ks_cnt_30d",
+      "tag": 16418,
+      "type": 1,
+      "source": 2,
+      "description": "req_ks_cnt_30d",
+      "owner": "zhuchengwen",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_placement_type_merge_clean",
+      "tag": 14793,
+      "type": 3,
+      "source": 3,
+      "description": "req_placement_type_merge_clean",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_siteset_merge",
+      "tag": 14633,
+      "type": 3,
+      "source": 3,
+      "description": "req_siteset_merge",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "req_xhs_cnt_30d",
+      "tag": 16428,
+      "type": 1,
+      "source": 2,
+      "description": "req_xhs_cnt_30d",
+      "owner": "zhuchengwen",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "request_is_weekend",
+      "tag": 9692,
+      "type": 1,
+      "source": 3,
+      "description": "根据请求时间算是否周末",
+      "owner": "yuema",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "request_source",
+      "tag": 2562,
+      "type": 3,
+      "source": 3,
+      "description": "当前请求来源",
+      "owner": "daiya",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "resident_city",
+      "tag": 10231,
+      "type": 3,
+      "source": 2,
+      "description": "resident_city",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "resident_province",
+      "tag": 10232,
+      "type": 3,
+      "source": 2,
+      "description": "resident_province",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "rta_is_installed",
+      "tag": 3226,
+      "type": 3,
+      "source": 3,
+      "description": "rta线上是否安装",
+      "owner": "xiazhe",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "rta_laxin_type",
+      "tag": 12446,
+      "type": 1,
+      "source": 3,
+      "description": "拉新类型",
+      "owner": "yaolirong",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "rta_pos",
+      "tag": 3227,
+      "type": 3,
+      "source": 0,
+      "description": "rta请求item维度pos",
+      "owner": "xiazhe",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "rta_slot_type_v2",
+      "tag": 9678,
+      "type": 3,
+      "source": 3,
+      "description": "rta_slot_type_v2",
+      "owner": "mushiwei",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "rta_user_type",
+      "tag": 3334,
+      "type": 1,
+      "source": 2,
+      "description": "rta_user_type,整数类型",
+      "owner": "xiazhe",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "short_term_crowd_conv_tag",
+      "tag": 14800,
+      "type": 1,
+      "source": 2,
+      "description": "短期难转化人群标签",
+      "owner": "zhaochiyu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "top1_actv_clk_cat1_id_90d_lite",
+      "tag": 4862,
+      "type": 1,
+      "source": 2,
+      "description": "90天内激活点击top1广告商品一级类目id（包括hov+rta）",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "trce_cnt_30d",
+      "tag": 12607,
+      "type": 1,
+      "source": 2,
+      "description": "30d 有trce次数",
+      "owner": "miaoshu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "trce_day_gap_list",
+      "tag": 14094,
+      "type": 1,
+      "source": 2,
+      "description": "历史trce序列距现在天级间隔",
+      "owner": "miaoshu",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "tx_emb_did_lst_rta_lite",
+      "tag": 12074,
+      "type": 2,
+      "source": 2,
+      "description": "tx_emb_did_lst_rta_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "unfrm_pos_l1_clk_padding_seq_90d_v2_str",
+      "tag": 14428,
+      "type": 3,
+      "source": 2,
+      "description": "unfrm_pos_l1_clk_padding_seq_90d_v2_str",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "unfrm_pos_union_clk_padding_seq_90d_v2_str",
+      "tag": 14429,
+      "type": 3,
+      "source": 2,
+      "description": "unfrm_pos_union_clk_padding_seq_90d_v2_str",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_actv_cnt_2y_lite",
+      "tag": 12754,
+      "type": 1,
+      "source": 2,
+      "description": "user_actv_cnt_2y_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_actv_cnt_30d_lite",
+      "tag": 4858,
+      "type": 1,
+      "source": 2,
+      "description": "30d激活次数（包括hov+rta）",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_actv_cnt_7d_lite",
+      "tag": 4859,
+      "type": 1,
+      "source": 2,
+      "description": "7d激活次数（包括hov+rta）",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_actv_cnt_90d_lite",
+      "tag": 4857,
+      "type": 1,
+      "source": 2,
+      "description": "90d激活次数（包括hov+rta）",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_actv_interva_lite",
+      "tag": 12757,
+      "type": 1,
+      "source": 2,
+      "description": "user_actv_interva_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_feed_req_cnt_7d_baidu_rta",
+      "tag": 13657,
+      "type": 1,
+      "source": 2,
+      "description": "user_feed_req_cnt_7d_baidu_rta",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_impr_cnt_after_lst_clk",
+      "tag": 8383,
+      "type": 1,
+      "source": 2,
+      "description": "user_impr_cnt_after_lst_clk",
+      "owner": "dongza",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_interests_rta_lite_truncate",
+      "tag": 16087,
+      "type": 3,
+      "source": 2,
+      "description": "user_interests_rta_lite_truncate",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_istl_req_cnt_7d_rta_lite",
+      "tag": 11278,
+      "type": 1,
+      "source": 2,
+      "description": "rta插屏7d请求数",
+      "owner": "jinxichuan, yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_nat_impr_cnt_7d_lite",
+      "tag": 10685,
+      "type": 1,
+      "source": 2,
+      "description": "lite原生近7d曝光数",
+      "owner": "yuema",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_notimpr_lp_actv_cnt_30d_lite",
+      "tag": 10012,
+      "type": 1,
+      "source": 2,
+      "description": "lite用户近30d未进入落地页激活统计数",
+      "owner": "yuema",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_nul_actv_cnt_90d_lite",
+      "tag": 4860,
+      "type": 1,
+      "source": 2,
+      "description": "90d历史自然激活次数（包括hov+rta）",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_adschannel_cnt",
+      "tag": 15394,
+      "type": 1,
+      "source": 2,
+      "description": "user_outer_clk_adschannel_cnt",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_adschannel_dsp_rta_merged_list_alap",
+      "tag": 14401,
+      "type": 3,
+      "source": 2,
+      "description": "用户站外adschannel序列，dsp、rta合并统计",
+      "owner": "jinxichuan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_adschannel_dsp_rta_merged_list_alap_unique",
+      "tag": 15393,
+      "type": 3,
+      "source": 2,
+      "description": "user_outer_clk_adschannel_dsp_rta_merged_list_alap_unique",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_day_gap_dsp_rta_merged_list_alap",
+      "tag": 14404,
+      "type": 1,
+      "source": 2,
+      "description": "user_outer_clk_day_gap_dsp_rta_merged_list_alap",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_day_gap_dsp_rta_merged_list_alap_unique",
+      "tag": 15254,
+      "type": 1,
+      "source": 2,
+      "description": "user_outer_clk_day_gap_dsp_rta_merged_list_alap_unique",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_dsp_rta_day_cnt",
+      "tag": 15255,
+      "type": 1,
+      "source": 2,
+      "description": "user_outer_clk_dsp_rta_day_cnt",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_hr_dsp_rta_merged_list_alap",
+      "tag": 14406,
+      "type": 1,
+      "source": 2,
+      "description": "user_outer_clk_hr_dsp_rta_merged_list_alap",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_rtapos_dsp_rta_merged_list_alap_90d",
+      "tag": 14849,
+      "type": 3,
+      "source": 2,
+      "description": "user_outer_clk_rtapos_dsp_rta_merged_list_alap_90d",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_clk_timestamp_dsp_rta_merged_list_alap",
+      "tag": 7545,
+      "type": 1,
+      "source": 2,
+      "description": "dsp rta 站外用户点击时间戳融合序列",
+      "owner": "gangfeng",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_impr_adschannel_dsp_rta_merged_list_alap_unique",
+      "tag": 15770,
+      "type": 3,
+      "source": 2,
+      "description": "user_outer_impr_adschannel_dsp_rta_merged_list_alap_unique",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_outer_impr_day_gap_dsp_rta_merged_list_alap_unique",
+      "tag": 15769,
+      "type": 1,
+      "source": 2,
+      "description": "user_outer_impr_day_gap_dsp_rta_merged_list_alap_unique",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_clk_v2_install_status_rt_10d_seq_v2",
+      "tag": 14675,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_clk_v2_install_status_rt_10d_seq_v2",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_clk_v2_plain_bundle_seq_top1",
+      "tag": 14770,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_clk_v2_plain_bundle_seq_top1",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_clk_v2_plain_bundle_seq_top5",
+      "tag": 14826,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_clk_v2_plain_bundle_seq_top5",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_clk_v2_sub_mat_strctr_seq_v2",
+      "tag": 14682,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_clk_v2_sub_mat_strctr_seq_v2",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_impr_v2_install_status_rt_10d_seq_v2",
+      "tag": 14691,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_impr_v2_install_status_rt_10d_seq_v2",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_impr_v2_media_install_status_seq_v2",
+      "tag": 14690,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_impr_v2_media_install_status_seq_v2",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_impr_v2_plain_bundle_seq_top1",
+      "tag": 14771,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_impr_v2_plain_bundle_seq_top1",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_rtaouter_impr_v2_plain_bundle_seq_top5",
+      "tag": 14825,
+      "type": 3,
+      "source": 2,
+      "description": "user_rtaouter_impr_v2_plain_bundle_seq_top5",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_top1_req_ads_channel_7d_lite",
+      "tag": 4891,
+      "type": 3,
+      "source": 2,
+      "description": "用户7天中请求次数最多的渠道(包括hov)",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_top1_req_ads_csite_7d_lite",
+      "tag": 4892,
+      "type": 3,
+      "source": 2,
+      "description": "用户7天中请求次数最多的广告位置(包括hov)",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_tracker_cnt_1d_rta_lite",
+      "tag": 14607,
+      "type": 1,
+      "source": 2,
+      "description": "user_tracker_cnt_1d_rta_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_tracker_cnt_1d_rtb_lite",
+      "tag": 14598,
+      "type": 1,
+      "source": 2,
+      "description": "user_tracker_cnt_1d_rtb_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_tracker_cnt_7d_rta_lite",
+      "tag": 14611,
+      "type": 1,
+      "source": 2,
+      "description": "user_tracker_cnt_7d_rta_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_tracker_cnt_7d_rtb_lite",
+      "tag": 14602,
+      "type": 1,
+      "source": 2,
+      "description": "user_tracker_cnt_7d_rtb_lite",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "user_vst_clk_cnt_90d_lite",
+      "tag": 4897,
+      "type": 1,
+      "source": 2,
+      "description": "90天点击次数(包括hov+rta)",
+      "owner": "jiujielun",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "usr_push_action_min_group_price_list_truncate",
+      "tag": 14794,
+      "type": 2,
+      "source": 2,
+      "description": "usr_push_action_min_group_price_list_truncate",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "usr_push_action_src_type_cnt_lite",
+      "tag": 10523,
+      "type": 1,
+      "source": 2,
+      "description": "usr_push_action_src_type_cnt_lite",
+      "owner": "gangfeng",
+      "track": false,
+      "static": false
+    },
+    {
+      "name": "weekday_ratio_list_rta_lite_n1",
+      "tag": 16288,
+      "type": 2,
+      "source": 2,
+      "description": "weekday_ratio_list_rta_lite_n1",
+      "owner": "yixinglan",
+      "track": false,
+      "static": false
+    }
+  ]
+}
